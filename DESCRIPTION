@@ -1,0 +1,10 @@
+Package: MaskDensity14
+Type: Package
+Title: density approximant
+Version: 1.0
+Date: 2015-04-20
+Author: Mark and Yan-Xia
+Maintainer: Yan-Xia Lin <yanxia@uow.edu.au>
+Description: Density approximant
+License: GPL-2
+Packaged: 2015-09-03 04:51:44 UTC; yanxia
